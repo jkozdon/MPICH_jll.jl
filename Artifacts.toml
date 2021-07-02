@@ -1,0 +1,10 @@
+[[MPICH]]
+arch = "i686"
+git-tree-sha1 = "76c3a869e6a23c51695031501c8141154803690b"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[MPICH.download]]
+    sha256 = "e89a4633932d8ea1de8537916ff3cd1de898736828f5edd2a237bb8e96d62205"
+    url = "https://github.com/jkozdon/MPICH_jll.jl/releases/download/MPICH-v3.4.2+1/MPICH.v3.4.2.i686-linux-gnu-libgfortran3.tar.gz"
